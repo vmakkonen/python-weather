@@ -15,4 +15,4 @@ if response.status_code == 200:
     print("Weather:", weather)
     print("Temperature:", temperature, "celsius")
 else:
-    print("An error occurred.")
+    print("An error occurred!.")
